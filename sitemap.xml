@@ -1,53 +1,408 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
+  <!-- ANA SAYFA -->
   <url>
     <loc>https://www.drkaankavruk.com/</loc>
-    <lastmod>2026-03-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.drkaankavruk.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.drkaankavruk.com/en"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.drkaankavruk.com/ar"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.drkaankavruk.com/"/>
+    <lastmod>2025-01-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 
+  <!-- HAKKINDA -->
   <url>
     <loc>https://www.drkaankavruk.com/hakkinda</loc>
-    <lastmod>2026-03-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.drkaankavruk.com/hakkinda"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.drkaankavruk.com/en/about"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.drkaankavruk.com/ar/about"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.drkaankavruk.com/hakkinda"/>
+    <lastmod>2025-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
+  <!-- HİZMETLER - Ana -->
   <url>
     <loc>https://www.drkaankavruk.com/hizmetler</loc>
-    <lastmod>2026-03-02</lastmod>
-    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.drkaankavruk.com/hizmetler"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.drkaankavruk.com/en/services"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.drkaankavruk.com/ar/services"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.drkaankavruk.com/hizmetler"/>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
+  <!-- HİZMETLER - Alt sayfalar -->
   <url>
-    <loc>https://www.drkaankavruk.com/galeri</loc>
-    <lastmod>2026-03-02</lastmod>
+    <loc>https://www.drkaankavruk.com/hizmetler/rinoplasti</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.drkaankavruk.com/hizmetler/rinoplasti"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.drkaankavruk.com/en/services/rhinoplasty"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.drkaankavruk.com/ar/services/rhinoplasty"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.drkaankavruk.com/hizmetler/rinoplasti"/>
+    <lastmod>2025-01-01</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.85</priority>
   </url>
 
   <url>
-    <loc>https://www.drkaankavruk.com/blog</loc>
-    <lastmod>2026-03-02</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://www.drkaankavruk.com/hizmetler/yuz-germe</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.drkaankavruk.com/hizmetler/yuz-germe"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.drkaankavruk.com/en/services/facelift"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.drkaankavruk.com/ar/services/facelift"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.drkaankavruk.com/hizmetler/yuz-germe"/>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <url>
+    <loc>https://www.drkaankavruk.com/hizmetler/meme-estetigi</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.drkaankavruk.com/hizmetler/meme-estetigi"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.drkaankavruk.com/en/services/breast-aesthetics"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.drkaankavruk.com/ar/services/breast-aesthetics"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.drkaankavruk.com/hizmetler/meme-estetigi"/>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <url>
+    <loc>https://www.drkaankavruk.com/hizmetler/liposuction</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.drkaankavruk.com/hizmetler/liposuction"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.drkaankavruk.com/en/services/liposuction"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.drkaankavruk.com/ar/services/liposuction"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.drkaankavruk.com/hizmetler/liposuction"/>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <url>
+    <loc>https://www.drkaankavruk.com/hizmetler/botoks-dolgu</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.drkaankavruk.com/hizmetler/botoks-dolgu"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.drkaankavruk.com/en/services/botox-fillers"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.drkaankavruk.com/ar/services/botox-fillers"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.drkaankavruk.com/hizmetler/botoks-dolgu"/>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <url>
+    <loc>https://www.drkaankavruk.com/hizmetler/rekonstruktif-cerrahi</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.drkaankavruk.com/hizmetler/rekonstruktif-cerrahi"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.drkaankavruk.com/en/services/reconstructive-surgery"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.drkaankavruk.com/ar/services/reconstructive-surgery"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.drkaankavruk.com/hizmetler/rekonstruktif-cerrahi"/>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
+  <!-- GALERİ -->
   <url>
-    <loc>https://www.drkaankavruk.com/sss</loc>
-    <lastmod>2026-03-02</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.drkaankavruk.com/galeri</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.drkaankavruk.com/galeri"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.drkaankavruk.com/en/gallery"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.drkaankavruk.com/ar/gallery"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.drkaankavruk.com/galeri"/>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <!-- BLOG -->
+  <url>
+    <loc>https://www.drkaankavruk.com/blog</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.drkaankavruk.com/blog"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.drkaankavruk.com/en/blog"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.drkaankavruk.com/ar/blog"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.drkaankavruk.com/blog"/>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
 
+  <!-- SSS -->
+  <url>
+    <loc>https://www.drkaankavruk.com/sss</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.drkaankavruk.com/sss"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.drkaankavruk.com/en/faq"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.drkaankavruk.com/ar/faq"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.drkaankavruk.com/sss"/>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+
+  <!-- RANDEVU -->
   <url>
     <loc>https://www.drkaankavruk.com/randevu</loc>
-    <lastmod>2026-03-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.drkaankavruk.com/randevu"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.drkaankavruk.com/en/appointment"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.drkaankavruk.com/ar/appointment"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.drkaankavruk.com/randevu"/>
+    <lastmod>2025-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+  </url>
+
+  <!-- İNGİLİZCE ANA SAYFALAR -->
+  <url>
+    <loc>https://www.drkaankavruk.com/en</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.drkaankavruk.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.drkaankavruk.com/en"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.drkaankavruk.com/ar"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.drkaankavruk.com/"/>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.drkaankavruk.com/en/about</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.drkaankavruk.com/hakkinda"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.drkaankavruk.com/en/about"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.drkaankavruk.com/ar/about"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.drkaankavruk.com/hakkinda"/>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.drkaankavruk.com/en/services</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.drkaankavruk.com/hizmetler"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.drkaankavruk.com/en/services"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.drkaankavruk.com/ar/services"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.drkaankavruk.com/hizmetler"/>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://www.drkaankavruk.com/en/services/rhinoplasty</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.drkaankavruk.com/hizmetler/rinoplasti"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.drkaankavruk.com/en/services/rhinoplasty"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.drkaankavruk.com/ar/services/rhinoplasty"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.drkaankavruk.com/hizmetler/rinoplasti"/>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.drkaankavruk.com/en/services/facelift</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.drkaankavruk.com/hizmetler/yuz-germe"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.drkaankavruk.com/en/services/facelift"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.drkaankavruk.com/ar/services/facelift"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.drkaankavruk.com/hizmetler/yuz-germe"/>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.drkaankavruk.com/en/services/breast-aesthetics</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.drkaankavruk.com/hizmetler/meme-estetigi"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.drkaankavruk.com/en/services/breast-aesthetics"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.drkaankavruk.com/ar/services/breast-aesthetics"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.drkaankavruk.com/hizmetler/meme-estetigi"/>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.drkaankavruk.com/en/services/liposuction</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.drkaankavruk.com/hizmetler/liposuction"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.drkaankavruk.com/en/services/liposuction"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.drkaankavruk.com/ar/services/liposuction"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.drkaankavruk.com/hizmetler/liposuction"/>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.drkaankavruk.com/en/services/botox-fillers</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.drkaankavruk.com/hizmetler/botoks-dolgu"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.drkaankavruk.com/en/services/botox-fillers"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.drkaankavruk.com/ar/services/botox-fillers"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.drkaankavruk.com/hizmetler/botoks-dolgu"/>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.drkaankavruk.com/en/services/reconstructive-surgery</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.drkaankavruk.com/hizmetler/rekonstruktif-cerrahi"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.drkaankavruk.com/en/services/reconstructive-surgery"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.drkaankavruk.com/ar/services/reconstructive-surgery"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.drkaankavruk.com/hizmetler/rekonstruktif-cerrahi"/>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://www.drkaankavruk.com/en/gallery</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.drkaankavruk.com/galeri"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.drkaankavruk.com/en/gallery"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.drkaankavruk.com/ar/gallery"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.drkaankavruk.com/galeri"/>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://www.drkaankavruk.com/en/blog</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.drkaankavruk.com/blog"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.drkaankavruk.com/en/blog"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.drkaankavruk.com/ar/blog"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.drkaankavruk.com/blog"/>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.drkaankavruk.com/en/faq</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.drkaankavruk.com/sss"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.drkaankavruk.com/en/faq"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.drkaankavruk.com/ar/faq"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.drkaankavruk.com/sss"/>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.drkaankavruk.com/en/appointment</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.drkaankavruk.com/randevu"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.drkaankavruk.com/en/appointment"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.drkaankavruk.com/ar/appointment"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.drkaankavruk.com/randevu"/>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- ARAPÇA ANA SAYFALAR -->
+  <url>
+    <loc>https://www.drkaankavruk.com/ar</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.drkaankavruk.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.drkaankavruk.com/en"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.drkaankavruk.com/ar"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.drkaankavruk.com/"/>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.drkaankavruk.com/ar/about</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.drkaankavruk.com/hakkinda"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.drkaankavruk.com/en/about"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.drkaankavruk.com/ar/about"/>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.drkaankavruk.com/ar/services</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.drkaankavruk.com/hizmetler"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.drkaankavruk.com/en/services"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.drkaankavruk.com/ar/services"/>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://www.drkaankavruk.com/ar/services/rhinoplasty</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.drkaankavruk.com/hizmetler/rinoplasti"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.drkaankavruk.com/en/services/rhinoplasty"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.drkaankavruk.com/ar/services/rhinoplasty"/>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.drkaankavruk.com/ar/services/facelift</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.drkaankavruk.com/hizmetler/yuz-germe"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.drkaankavruk.com/en/services/facelift"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.drkaankavruk.com/ar/services/facelift"/>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.drkaankavruk.com/ar/services/breast-aesthetics</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.drkaankavruk.com/hizmetler/meme-estetigi"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.drkaankavruk.com/en/services/breast-aesthetics"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.drkaankavruk.com/ar/services/breast-aesthetics"/>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.drkaankavruk.com/ar/services/liposuction</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.drkaankavruk.com/hizmetler/liposuction"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.drkaankavruk.com/en/services/liposuction"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.drkaankavruk.com/ar/services/liposuction"/>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.drkaankavruk.com/ar/services/botox-fillers</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.drkaankavruk.com/hizmetler/botoks-dolgu"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.drkaankavruk.com/en/services/botox-fillers"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.drkaankavruk.com/ar/services/botox-fillers"/>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.drkaankavruk.com/ar/services/reconstructive-surgery</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.drkaankavruk.com/hizmetler/rekonstruktif-cerrahi"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.drkaankavruk.com/en/services/reconstructive-surgery"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.drkaankavruk.com/ar/services/reconstructive-surgery"/>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://www.drkaankavruk.com/ar/gallery</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.drkaankavruk.com/galeri"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.drkaankavruk.com/en/gallery"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.drkaankavruk.com/ar/gallery"/>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://www.drkaankavruk.com/ar/blog</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.drkaankavruk.com/blog"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.drkaankavruk.com/en/blog"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.drkaankavruk.com/ar/blog"/>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.drkaankavruk.com/ar/faq</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.drkaankavruk.com/sss"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.drkaankavruk.com/en/faq"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.drkaankavruk.com/ar/faq"/>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.drkaankavruk.com/ar/appointment</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.drkaankavruk.com/randevu"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.drkaankavruk.com/en/appointment"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.drkaankavruk.com/ar/appointment"/>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
 
 </urlset>
